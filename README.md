@@ -11,6 +11,8 @@ Please go through [this tutorial](http://learn.shayhowe.com) to learn the fundam
 - The box model
 - Positioning content with CSS
 
+
+
 ### Bootstrap
 While we could create our web application with just HTML, CSS, and Javascript, writing all of our styles from scratch would be tedious. 
 
@@ -46,6 +48,10 @@ You *do not* need to go through all of these, just start to get familiar enough 
 - [ng-click](https://docs.angularjs.org/api/ng/directive/ngClick)
 - [$scope](https://docs.angularjs.org/guide/scope)
 
+
+
+
+
 ### Assignment 
 As before, We have provided skeleton code that will help guide you in completing this assignment. 
 ##### Files provided in Assignment #2
@@ -66,11 +72,13 @@ is used to control the style of the content on the landing page. Thus, the index
 - **listingFactory.js** - is that same content that we had in our listings.json file for Assignment #1 but formatted into an object that Angular.js can manipulate
 - **README** - You already know what this file contains.
 
+
 #### Assignment Objectives
 Your objective is to create the front-end of our UF Directory App that will display the listings and allow the user to add and delete old ones. 
 To accomplish this you will:
 - modify the **listingController.js** file to  display listings, as well as the ability to add new listings and delete old ones.
-- 
+
+
 ### Tasks 
 Take a look at the source code provided to you, and map out how the different files communicate with one another. You will notice there is a *factory*, a *controller*, and a *view* (provided by the index.html page). It is your responsibility to:
 
